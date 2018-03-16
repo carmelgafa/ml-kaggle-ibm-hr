@@ -1,0 +1,37 @@
+Age							age of employee in years
+Attrition					Yes / No if employee left company. Replaced by 1 / 0	
+BusinessTravel				Non-Travel / Travel_Rarely / Travel_Frequently. Replaced by 1 / 2 / 3
+DailyRate
+Department					Human Resources, Research & Development, Sales
+DistanceFromHome
+Education
+EducationField				Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree
+EmployeeCount				all '1'. Removed
+EmployeeNumber
+EnvironmentSatisfaction 	1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+Gender						Female / Male. Replaced by 0 / 1
+HourlyRate
+JobInvolvement 				1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+JobLevel					1 to 5 
+JobRole						Healthcare Representative, Human Resources, Laboratory Technician,
+							Manager, Manufacturing Director, Research Director, Research Scientist,
+							Sales Executive, Sales Representative
+JobSatisfaction 			1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+MaritalStatus				Divorced, Married, Single. Replaced by 1 / 2 / 3
+MonthlyIncome
+MonthlyRate
+NumCompaniesWorked
+Over18						all 'Y'. Removed
+OverTime					Yes / No. Replaced by 1 / 0
+PercentSalaryHike
+PerformanceRating 			1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
+RelationshipSatisfaction 	1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+StandardHours				All 80. Removed.
+StockOptionLevel			0 - 3. Assuming 3 will have right to largest number of stock options
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance				1 'Bad' 2 'Good' 3 'Better' 4 'Best'
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
